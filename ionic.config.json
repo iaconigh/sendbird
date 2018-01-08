@@ -1,0 +1,8 @@
+{
+  "name": "ionic-send-bird",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
